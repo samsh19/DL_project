@@ -34,7 +34,7 @@ Original Image             |
 
 Original Image             |
 :-------------------------:
-<img src="data/jennifer.jpg" alt="drawing" width="50"/>  |
+<img src="https://github.com/samsh19/DL_project/blob/main/data/jennifer.jpeg?raw=true" alt="drawing" width="50"/>  |
 
 Candy style             |Mosaic style             |Rain Princess style             |Udnie style             
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
