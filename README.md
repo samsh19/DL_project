@@ -27,15 +27,16 @@ WebCamera:
 	`webcam.ipynb` is use to simutanously generating the partial style transfer output video. Note that run on the colab may have huge delay, recommend the environment with full resource support
 
 ### Result:
-Orginal Image             |Candy style             |Mosaic style             |Rain Princess style             |Udnie style             |Multiple object style transfer             |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/samsh19/DL_project/blob/main/data/jennifer.jpeg?raw=true)  |  ![](https://github.com/samsh19/DL_project/blob/main/result/candy.png?raw=true)  |  ![](https://github.com/samsh19/DL_project/blob/main/result/mosaic.png?raw=true)  |  ![](https://github.com/samsh19/DL_project/blob/main/result/rain_princess.png?raw=true)  |  ![](https://github.com/samsh19/DL_project/blob/main/result/udnie.png?raw=true)  |  ![](https://github.com/samsh19/DL_project/blob/main/result/multi_obj.png?raw=true)  |  
+Orginal Image             |
+:-------------------------:
+![](https://github.com/samsh19/DL_project/blob/main/data/jennifer.jpeg?raw=true)  |
 
+Candy style             |Mosaic style             |Rain Princess style             |Udnie style             
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/samsh19/DL_project/blob/main/result/candy.png?raw=true)  |  ![](https://github.com/samsh19/DL_project/blob/main/result/mosaic.png?raw=true)  |  ![](https://github.com/samsh19/DL_project/blob/main/result/rain_princess.png?raw=true)  |  ![](https://github.com/samsh19/DL_project/blob/main/result/udnie.png?raw=true)  |
 
-<img src="https://github.com/samsh19/DL_project/blob/main/data/jennifer.jpeg?raw=true" width="425"/> <img src="https://github.com/samsh19/DL_project/blob/main/result/candy.png?raw=true" width="425"/> <img src="https://github.com/samsh19/DL_project/blob/main/result/mosaic.png?raw=true" width="425"/> <img src="https://github.com/samsh19/DL_project/blob/main/result/rain_princess.png?raw=true" width="425"/> <img src="https://github.com/samsh19/DL_project/blob/main/result/udnie.png?raw=true" width="425"/> <img src="https://github.com/samsh19/DL_project/blob/main/result/multi_obj.png?raw=true" width="425"/>
-<!-- <p align = 'center'>
-<img src = 'https://github.com/samsh19/ML_project/blob/main/data/compare_images/polor_bear_japan_paint_wave_compare.png?raw=true'>
-</p>
-From the left to right, the content image, style image, style transferred image, segmentation of the content image, and the outcome -->
+Multiple object style transfer             |
+:-------------------------:
+![](https://github.com/samsh19/DL_project/blob/main/result/multi_obj.png?raw=true)  |
 
 Please feel free to leave a message [here](https://github.com/samsh19/DL_project/issues) if there is an issue.
